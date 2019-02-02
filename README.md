@@ -1,2 +1,2 @@
 # Python_Course
-Detailed Python course
+Detailed Python course for quick refresh
